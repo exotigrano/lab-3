@@ -66,3 +66,4 @@ label:
     }
     cout << diag1 << " " << diag2 << endl << gor << endl;
 }
+//derwerq////yrur///
